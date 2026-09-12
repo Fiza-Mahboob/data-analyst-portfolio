@@ -1,6 +1,6 @@
 # Retail Performance & Forecasting Dashboard (Advanced Excel)
 
-![Dashboard](screenshots/dashboard_overview.png)
+![Dashboard](images/DashBoard.png)
 
 ## Business Problem
 Built for a retail manager deciding where to focus resources next quarter — 
