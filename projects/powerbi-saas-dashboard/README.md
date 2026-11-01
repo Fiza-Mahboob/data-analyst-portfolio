@@ -27,14 +27,14 @@ region in particular reflect this assignment, not a real business pattern.
 - Custom theming and multi-page report design
 
 ## Dashboard Pages
-![Revenue & Customer Health](images/RevenueHealth.png)
-![Cohort Retention](screenshots/02_cohort_retention.png)
-![Churn & Customer Risk](images/churn_risk.png)
-![MRR Movement](screenshots/04_mrr_movement.png)
+![Revenue & Customer Health](images/Revenue%20Health.png)
+![Cohort Retention](images/cohort_retention.png)
+![Churn & Customer Risk](images/Churn%20Risk.png)
+![MRR Movement](images/MRR%Movement.png)
 
 ## Row-Level Security
 Same report, different views depending on the assigned role.
-![North Manager](screenshots/rls_north.png)
+![North Manager](images/North_RLS.png)
 ![South Manager](screenshots/rls_south.png)
 
 ## Key Insights
