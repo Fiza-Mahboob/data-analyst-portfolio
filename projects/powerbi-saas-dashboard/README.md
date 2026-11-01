@@ -35,7 +35,7 @@ region in particular reflect this assignment, not a real business pattern.
 ## Row-Level Security
 Same report, different views depending on the assigned role.
 ![North Manager](images/North_RLS.png)
-![South Manager](screenshots/rls_south.png)
+![South Manager](images/South_RLS.png)
 
 ## Key Insights
 - Contract type is the strongest churn driver: month-to-month customers 
