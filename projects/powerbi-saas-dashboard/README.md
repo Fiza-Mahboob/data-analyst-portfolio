@@ -29,7 +29,7 @@ region in particular reflect this assignment, not a real business pattern.
 ## Dashboard Pages
 ![Revenue & Customer Health](images/Revenue Health.png)
 ![Cohort Retention](screenshots/02_cohort_retention.png)
-![Churn & Customer Risk](screenshots/03_churn_risk.png)
+![Churn & Customer Risk](images/churn_risk.png)
 ![MRR Movement](screenshots/04_mrr_movement.png)
 
 ## Row-Level Security
