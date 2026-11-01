@@ -30,7 +30,7 @@ region in particular reflect this assignment, not a real business pattern.
 ![Revenue & Customer Health](images/Revenue%20Health.png)
 ![Cohort Retention](images/cohort_retention.png)
 ![Churn & Customer Risk](images/Churn%20Risk.png)
-![MRR Movement](images/MRR%Movement.png)
+![MRR Movement](images/MRR%20Movement.png)
 
 ## Row-Level Security
 Same report, different views depending on the assigned role.
