@@ -27,7 +27,7 @@ region in particular reflect this assignment, not a real business pattern.
 - Custom theming and multi-page report design
 
 ## Dashboard Pages
-![Revenue & Customer Health](images/CoverPage.png)
+![Revenue & Customer Health](images/RevenueHealth.png)
 ![Cohort Retention](screenshots/02_cohort_retention.png)
 ![Churn & Customer Risk](images/churn_risk.png)
 ![MRR Movement](screenshots/04_mrr_movement.png)
